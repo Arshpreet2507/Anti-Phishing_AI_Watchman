@@ -1,0 +1,14 @@
+2025-12-20 21:56:22,842 - WARNING - SIMULATED ATTACK BLOCKED | Destination: unknown-server[.]com
+2025-12-20 22:11:22,273 - WARNING - SIMULATED ATTACK BLOCKED | Destination: unknown-server[.]com
+2025-12-20 22:18:34,382 - WARNING - SIMULATED ATTACK BLOCKED | Destination: unknown-server[.]com
+[2025-12-21 00:59:15.380205] Risk=50% | Action=⚠️ SUSPICIOUS - Warn User | Message=Urgent! Verify your bank account by clicking this link
+2025-12-21 00:59:18,384 - WARNING - SIMULATED ATTACK BLOCKED | Destination: unknown-server[.]com
+[2025-12-21 01:23:39.200637] Risk=64% | Action=⚠️ SUSPICIOUS - Warn User | Message=Urgent! Verify your bank account by clicking this link
+[2025-12-21 01:32:21.985066] Risk=64% | Action=⚠️ SUSPICIOUS - Warn User | Message=Urgent! Verify your bank account by clicking this link
+[2025-12-21 01:33:31.411998] Risk=64% | Action=⚠️ SUSPICIOUS - Warn User | Message=Urgent! Verify your bank account by clicking this link
+[2025-12-21 01:36:21.236065] Risk=70% | Action=🚨 PHISHING DETECTED - Block & Alert | Message=URGENT: Your bank account is suspended.
+Click here immediately to verify or your
+[2025-12-21 02:39:34.440709] Risk=40% | Action=⚠️ SUSPICIOUS - Warn User | Message=URGENT: Your bank account is suspended.
+2025-12-21 02:39:37,448 - WARNING - SIMULATED ATTACK BLOCKED | Destination: unknown-server[.]com
+[2025-12-21 02:41:51.721459] Risk=58% | Action=⚠️ SUSPICIOUS - Warn User | Message=Urgent ! Verify your bank account immediately
+

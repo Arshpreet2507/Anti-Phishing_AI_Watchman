@@ -1,0 +1,29 @@
+text,label
+Verify your account immediately by clicking this link,1
+Your bank account is suspended urgent action required,1
+Win a free iPhone click here now,1
+Meeting scheduled tomorrow at 10am,0
+Please find the project report attached,0
+Your OTP is 456789 do not share,0
+text,label
+"Urgent! Verify your bank account immediately by clicking the link below.",1
+"Your account has been suspended. Login now to restore access.",1
+"Congratulations! You have won a prize. Click here to claim.",1
+"Action required: Update your payment information to avoid service disruption.",1
+"Security alert: Suspicious login detected. Verify now.",1
+"Reset your password immediately to secure your account.",1
+"Your package delivery is pending. Confirm your address.",1
+"Limited time offer! Click here to win rewards.",1
+"Bank alert: Unauthorized transaction detected. Act now.",1
+"Your email storage is full. Click to upgrade.",1
+
+"Hi team, please find the meeting agenda attached.",0
+"Can we reschedule our call to tomorrow?",0
+"Happy birthday! Hope you have a great day.",0
+"Please review the attached project report.",0
+"Reminder: Submit your assignment before Friday.",0
+"Let’s catch up over coffee this weekend.",0
+"Your order has been shipped successfully.",0
+"Invoice for last month’s services attached.",0
+"Meeting postponed to next week.",0
+"Thank you for your purchase!",0
